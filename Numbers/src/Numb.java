@@ -6,6 +6,8 @@ public class Numb {
 		// увеличение каждого значения до 10
 		// с выводом в консоль
 
+		
+		//df
 		System.out.println("Производится генерация 10 чисел...");
 
 		int[] numBase = new int[10];
